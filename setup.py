@@ -1,3 +1,4 @@
+#注意这个代码应该放在整个文件上一个目录！！！
 import os
 from setuptools import setup, find_packages, Extension
 from Cython.Build import cythonize
